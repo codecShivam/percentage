@@ -14,7 +14,7 @@ export default function Home() {
         </div>
         <div className='w-full relative flex justify-center'>
           <input type="text" placeholder="your email" className="z-[1] sm:w-full  h-[4.4rem] rounded-lg border-2 border-black text-black px-6 font-chathura text-[2.48rem]" />
-          <div className='w-7 h-7 absolute bottom-[-0.6rem] border-b-2 left-2/3 z-10 bg-white  border-black rounded-full'></div>
+          <div className='w-7 h-7 absolute bottom-[-0.6rem] border-b-4 left-2/3 z-10 bg-white  border-black rounded-full'></div>
         <div className='w-4 h-4 absolute -bottom-8   border-2 left-[66.167%] z-10 bg-white  border-black rounded-full'></div>
         <div className='w-2 h-2 absolute -bottom-11   border-2 left-[66%] z-10 bg-white  border-black rounded-full'></div>
 
