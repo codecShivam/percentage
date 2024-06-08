@@ -75,7 +75,7 @@ export default function Home() {
           <div className='w-2 h-2 absolute -bottom-11   border-2 left-[66%] z-10 bg-white  border-black rounded-full'></div>
 
         </form>
-
+            {message && <p className="mt-2 text-center text-sm font-medium mr-8 text-[#FED501]">{message}</p>}
 
         <button className='key-button mt-9 -translate-x-3 text-black mx-auto flex justify-center items-center font-extrabold font-chathura text-[2.48rem] bg-[#FED501] h-10  sm:h-14'>JOIN WAITLIST</button>
       </div>
