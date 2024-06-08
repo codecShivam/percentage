@@ -29,3 +29,5 @@ config.ini
 
 # Ignore files specific to your development environment
 .env
+*.env
+*.next
